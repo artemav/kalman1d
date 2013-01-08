@@ -1,0 +1,10 @@
+
+Charts.hs,16
+aCoeffs 15,329
+
+KF.hs,34
+import System.Random Random4,50
+
+Main.hs,0
+
+AR.hs,0
